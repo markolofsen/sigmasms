@@ -6,7 +6,7 @@
 
 Beispielvariable für Repo: 
 
-Version = 0.0.4 <br />
+Version = 0.0.5 <br />
 Bibliotheksname = sigmasms <br />
 Titel = Sigma SMS API (Python 3) <br />
 Schlüsselwörter = Sigma, SMS, Gate, API, Python <br />
@@ -14,7 +14,7 @@ Schlüsselwörter = Sigma, SMS, Gate, API, Python <br />
 ### Heiß zu installieren
 
 ```sh
-pip3 install sigmasms==0.0.4
+pip3 install sigmasms==0.0.5
 ```
 
 

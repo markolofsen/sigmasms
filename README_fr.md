@@ -6,7 +6,7 @@
 
 Exemple de variable pour repo: 
 
-Version = 0.0.4 <br />
+Version = 0.0.5 <br />
 Nom de la bibliothèque = sigmasms <br />
 Titre = Sigma SMS API (Python 3) <br />
 Mots-clés = Sigma, SMS, Gate, API, Python <br />
@@ -14,7 +14,7 @@ Mots-clés = Sigma, SMS, Gate, API, Python <br />
 ### Chaud à installer
 
 ```sh
-pip3 install sigmasms==0.0.4
+pip3 install sigmasms==0.0.5
 ```
 
 

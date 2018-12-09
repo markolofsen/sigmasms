@@ -6,7 +6,7 @@
 
 Variable de muestra para repo: 
 
-Versión = 0.0.4 <br />
+Versión = 0.0.5 <br />
 Nombre de la biblioteca = sigmasms <br />
 Título = Sigma SMS API (Python 3) <br />
 Palabras clave = Sigma, SMS, Gate, API, Python <br />
@@ -14,7 +14,7 @@ Palabras clave = Sigma, SMS, Gate, API, Python <br />
 ### Caliente para instalar
 
 ```sh
-pip3 install sigmasms==0.0.4
+pip3 install sigmasms==0.0.5
 ```
 
 

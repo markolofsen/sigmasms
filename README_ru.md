@@ -6,7 +6,7 @@
 
 Пример переменной для репо: 
 
-Версия = 0.0.4 <br />
+Версия = 0.0.5 <br />
 Название библиотеки = sigmasms <br />
 Название = Sigma SMS API (Python 3) <br />
 Ключевые слова = Sigma, SMS, Gate, API, Python <br />
@@ -14,7 +14,7 @@
 ### Горячая установка
 
 ```sh
-pip3 install sigmasms==0.0.4
+pip3 install sigmasms==0.0.5
 ```
 
 

@@ -6,7 +6,7 @@
 
 Sample variable for repo: 
 
-Version = 0.0.4 <br />
+Version = 0.0.5 <br />
 Library name = sigmasms <br />
 Title = Sigma SMS API (Python 3) <br />
 Keywords = Sigma, SMS, Gate, API, Python <br />
@@ -14,7 +14,7 @@ Keywords = Sigma, SMS, Gate, API, Python <br />
 ### Hot to install
 
 ```sh
-pip3 install sigmasms==0.0.4
+pip3 install sigmasms==0.0.5
 ```
                     
 
