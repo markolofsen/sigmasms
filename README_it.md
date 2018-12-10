@@ -4,18 +4,19 @@
 
 ---
 
-# Sigma SMS API (Python3)
+<h1> Sigma SMS API (Python3) </h1>
+
 ## SMS API per le aziende
 
-Versione = 0.1.4 <br />
+Versione = 0.1.5 <br />
 Nome libreria = sigmasms <br />
 Titolo = Sigma SMS API (Python 3) <br />
-Parole chiave = Sigma, SMS, Gate, API, Python <br />
+Parole chiave = Sigma SMS Gate API Python <br />
 
 ### Caldo da installare
 
 ```sh
-pip3 install sigmasms==0.1.4
+pip3 install sigmasms==0.1.5
 ```
 
 
