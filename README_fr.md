@@ -4,11 +4,13 @@
 
 ---
 
+Moscou <br />
+
 <h1> API Sigma SMS (Python3) </h1>
 
 ## API SMS pour les entreprises
 
-Version = 0.1.5 <br />
+Version = 0.1.6 <br />
 Nom de la bibliothèque = sigmasms <br />
 Titre = Sigma SMS API (Python 3) <br />
 Mots-clés = Sigma SMS Gate API Python <br />
@@ -16,27 +18,13 @@ Mots-clés = Sigma SMS Gate API Python <br />
 ### Chaud à installer
 
 ```sh
-pip3 install sigmasms==0.1.5
+pip3 install sigmasms==0.1.6
 ```
 
 
 ### Comment utiliser
 
-```python
-from sigmasms import SIGMA
-
-sigma_username = 'my_username'
-sigma_password = 'my_password'
-
-res = SIGMA(username=sigma_username, password=sigma_password).send(sender='B-Media', message='Hello Mark!!!', recipients=['+34777777777','+34777777778',])
-print(res)
-
-#Retrieving sms status
-#msg_id = 'c81736cd-2919-4e6f-ac91-41bbd99fa085'
-msg_id = res['id']
-status = SIGMA(username=sigma_username, password=sigma_password).status(msg_id=msg_id)
-print(status)
-```
+(dix)]
 
 ---
 
