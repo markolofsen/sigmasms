@@ -10,7 +10,7 @@ Moscú <br />
 
 ## SMS API para empresas
 
-Versión = 0.1.6 <br />
+Versión = 0.1.7 <br />
 Nombre de la biblioteca = sigmasms <br />
 Título = Sigma SMS API (Python 3) <br />
 Palabras clave = Sigma SMS Gate API Python <br />
@@ -18,7 +18,7 @@ Palabras clave = Sigma SMS Gate API Python <br />
 ### Caliente para instalar
 
 ```sh
-pip3 install sigmasms==0.1.6
+pip3 install sigmasms==0.1.7
 ```
 
 
